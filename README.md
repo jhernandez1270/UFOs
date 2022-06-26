@@ -12,34 +12,34 @@ To use the website, a user would enter in data for one or more of the filter fie
 data table will update accordingly.
 For example, here we have initial data table displays all of our data on UFO sightings.
 
-![All data of UFO sighting](images/ScreenShot1.png)
+![All data of UFO sighting](static/images/ScreenShot1.png)
 
 We enter in a sighting date and hit the [enter] key. Which filters the data on all sightings reported
 on the entered date.
 
-![All data of UFO sighting](images/ScreenShot2.png)
+![All data of UFO sighting](static/images/ScreenShot2.png)
 
 We can also, filter by multiple criteria. For example, how many sightings were in California on the 
 entered date. Enter in "ca" for California the state field and hit the [enter] key. The table will 
 update with sightings in California on the entered date.
 
-![All data of UFO sighting](images/ScreenShot3.png)
+![All data of UFO sighting](static/images/ScreenShot3.png)
 
 We can further filter by city.
 
-![All data of UFO sighting](images/ScreenShot4.png)
+![All data of UFO sighting](static/images/ScreenShot4.png)
 
 To clear filters, just delete the unwanted filter field and hit the [enter] key on your keyboard.
 
-![All data of UFO sighting](images/ScreenShot5.png)
+![All data of UFO sighting](static/images/ScreenShot5.png)
 
 We can also filter by object shape.
 
-![All data of UFO sighting](images/ScreenShot6.png)
+![All data of UFO sighting](static/images/ScreenShot6.png)
 
 and country.
 
-![All data of UFO sighting](images/ScreenShot7.png)
+![All data of UFO sighting](static/images/ScreenShot7.png)
 
 
 ## Summary
